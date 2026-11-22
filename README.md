@@ -1,12 +1,14 @@
 # MaldiumTools
 
-**MaldiumTools** é uma coleção de ferramentas úteis e multiplataformas para macOS, Windows e Linux.
+**MaldiumTools** é uma coleção de ferramentas úteis e multiplataforma para Windows e Linux.
+
+> ⚠️ Algumas ferramentas foram desenvolvidas com auxílio de inteligência artificial. Embora tenham sido testadas, podem apresentar falhas, causar problemas ou não funcionar como esperado. Use-as com cautela e por sua conta e risco.
 
 > ⚠️ Este repositório está em construção. O README será atualizado à medida que novas ferramentas forem adicionadas.
 
 ## Recursos
 
-- Compatibilidade com Windows, macOS e Linux
+- Compatibilidade com Windows e Linux
 - Instalação simples por sistema operacional
 - Estrutura aberta a novas ferramentas e scripts
 - Licença MIT
@@ -110,46 +112,6 @@ sudo pacman -Syu
 3. Reinicie o terminal após alterações no `PATH` ou nas configurações do Shell.
 4. Abra uma nova sessão e teste o comando da ferramenta.
 5. Mantenha o uso de `sudo` limitado às operações que realmente exigem privilégios administrativos.
-
-### macOS
-
-#### Terminal
-
-```bash
-git clone https://github.com/Idol2me/MaldiumTools.git
-cd MaldiumTools
-```
-
-Se o macOS solicitar permissões para terminal ou pasta, revise a solicitação em:
-
-**Configurações do Sistema > Privacidade e Segurança**
-
-Se for necessário executar um script Shell:
-
-```bash
-chmod +x CAMINHO/DO/SCRIPT.sh
-./CAMINHO/DO/SCRIPT.sh
-```
-
-Substitua `CAMINHO/DO/SCRIPT.sh` pelo caminho correto.
-
-#### Pós-instalação no macOS
-
-1. Confirme que o Git está disponível:
-
-```bash
-git --version
-```
-
-2. Caso o macOS apresente o aviso sobre desenvolvedor não identificado ao abrir um aplicativo gráfico, revise o arquivo em:
-
-**Configurações do Sistema > Privacidade e Segurança**
-
-Só permita aplicativos cuja origem seja confiável.
-
-3. Reinicie o Terminal após alterações no `PATH`.
-4. Abra uma nova sessão e teste o comando da ferramenta.
-5. Em arquiteturas Apple Silicon e Intel, confirme que o aplicativo ou dependência corresponde à sua arquitetura.
 
 ## Atualização
 
