@@ -1,0 +1,12 @@
+AVISO DE INTELIGENCIA ARTIFICIAL E REVISAO DE CODIGO
+
+O Unbloated11 pode ter sido criado, total ou parcialmente, com auxilio de inteligencia artificial. O codigo modifica componentes do Windows 11 e pode conter falhas, riscos ou comportamentos inesperados.
+
+Antes de utilizar:
+- Crie um ponto de restauracao.
+- Faca backup dos dados importantes.
+- Revise todas as camadas e alteracoes manualmente.
+- Teste em ambiente controlado.
+- Nao use ajustes profundos sem confirmar os efeitos.
+
+O uso e feito por conta e risco do usuario.
