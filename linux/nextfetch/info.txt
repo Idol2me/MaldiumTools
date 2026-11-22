@@ -1,0 +1,15 @@
+AVISO DE INTELIGENCIA ARTIFICIAL E SEGURANCA
+
+Esta ferramenta pode ter sido criada, total ou parcialmente, com o auxilio de inteligencia artificial.
+O codigo pode conter falhas, erros, riscos, comportamentos inesperados ou efeitos colaterais.
+
+Antes de utilizar:
+- Revise todo o codigo manualmente.
+- Confirme o que o arquivo faz antes de executa-lo.
+- Teste em ambiente controlado ou maquina virtual.
+- Faca backup dos dados importantes.
+- Evite privilegios administrativos desnecessarios.
+- Verifique arquivos, caminhos e comandos antes de aprovar alteracoes no sistema.
+
+Nada neste repositorio garante que uma ferramenta esteja livre de defeitos, seja adequada a uma finalidade ou funcione em todas as configuracoes.
+O uso e feito por conta e risco do usuario.
