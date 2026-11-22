@@ -1,0 +1,7 @@
+PASTA: FERRAMENTAS DE LINHA DE COMANDO (CLI)
+
+Coloque nesta pasta ferramentas globais executadas pela linha de comando.
+
+AVISO DE INTELIGENCIA ARTIFICIAL E REVISAO DE CODIGO
+
+As ferramentas podem ter sido criadas, total ou parcialmente, com auxilio de inteligencia artificial e podem conter falhas, riscos ou comportamentos inesperados. Revise todo o codigo, teste em ambiente controlado e faca backup dos dados importantes antes de usar. Execute por sua conta e risco.

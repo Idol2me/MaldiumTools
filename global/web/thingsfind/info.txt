@@ -1,0 +1,5 @@
+AVISO DE INTELIGENCIA ARTIFICIAL E REVISAO DE CODIGO
+
+Esta ferramenta pode ter sido criada, total ou parcialmente, com auxilio de inteligencia artificial. O codigo pode conter falhas, riscos ou comportamentos inesperados.
+
+Antes de usar, revise todo o codigo, teste em ambiente controlado e faca backup dos dados importantes. Execute por sua conta e risco.
