@@ -1,0 +1,1 @@
+Please be aware that some of these tools were created, in whole or in part, with the aid of artificial intelligence (AI). As a result, they may contain flaws or present certain risks—even if the code has undergone a thorough security review. We recommend that you examine the code yourself if you wish to be certain about what you are running on your machine.
